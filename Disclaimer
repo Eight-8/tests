@@ -1,0 +1,9 @@
+#! /bin/brain
+
+while tests exists:
+ DO NOT DOWNLOAD FILES
+done
+
+print("thank you.")
+
+exit()
